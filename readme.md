@@ -13,8 +13,7 @@ Il utilise un système de permissions basé sur un rôle défini dans le fichier
 ## 1. Cloner le projet
 
 ```bash
-git clone <url-du-repo>
-cd <nom-du-repo>
+  Installer le github 
 ```
 
 ## 2. Créer un environnement virtuel
