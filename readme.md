@@ -10,13 +10,7 @@ Il utilise un système de permissions basé sur un rôle défini dans le fichier
 
 # 🚀 Installation
 
-## 1. Cloner le projet
-
-```bash
-  Installer le github 
-```
-
-## 2. Créer un environnement virtuel
+## 1. Créer un environnement virtuel
 
 ### Linux / macOS
 
