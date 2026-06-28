@@ -65,7 +65,7 @@ project/
 │   └── embed.py          # Commande /add-embed
 │
 ├── data.json             # Rôle autorisé
-├── main.py               # Fichier principal
+├── bot.py               # Fichier principal
 ├── .env                  # Token du bot (à ne jamais partager)
 ├── requirements.txt      # Dépendances
 └── README.md
@@ -78,7 +78,7 @@ project/
 ## Lancer le bot
 
 ```bash
-python main.py
+python bot.py
 ```
 
 ou
